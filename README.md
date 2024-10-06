@@ -46,8 +46,7 @@ Este programa fue desarrollado como parte de la asignatura IIE-344: Estructura d
 
 ## Cómo ejecutar
 
-Compilar el programa utilizando un compilador de C como `gcc`:
+Compilar el programa utilizando un compilador de C++ como `g++`:
 
 ```bash
-gcc -o resp_programa programaRESP.c
-
+g++ -o tarea1Main tarea1Main.cpp
